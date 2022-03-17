@@ -110,12 +110,12 @@ function projects() {
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                         <div class="flex relative">
                         <img alt="Thumbnail CV" class="absolute inset-0 w-full h-full object-cover object-center"
-                            src="./static/cv.png"/>
+                            src="/static/cv.png"/>
                         <div class="px-8 py-10 relative z-10 w-full border-4 border-primary bg-white dark:bg-secondary opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-primary mb-1">CV</h2>
                             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Curriculum Vitae</h1>
                             <p class="leading-relaxed text-gray-900">Her kan du se litt av mine tidligere jobberfaringer og min skolegang.</p>
-                            <a class="mt-3 text-primary inline-flex items-center" href="./static/oppdatert-cv.pdf" download>Klikk for å laste ned</a>
+                            <a class="mt-3 text-primary inline-flex items-center" href="/static/oppdatert-cv.pdf" download>Klikk for å laste ned</a>
                         </div>
                         </div>
                     </div>
