@@ -64,13 +64,13 @@ function about() {
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="me and my girls" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/megogjentene.jpg"/>
+                                    src="/images/megogjentene-min.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="me and my gf fly-fishing" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/fiske.jpg"/>
+                                    src="/images/fiske-min.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
@@ -82,7 +82,7 @@ function about() {
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="bouldering" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/buldrer2.jpg"/>
+                                    src="/images/buldrer2-min.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
