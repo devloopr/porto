@@ -88,7 +88,7 @@ function about() {
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="bouldering" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="./static/klatrer.JPG"/>
+                                    src="./static/klatre.jpg"/>
                                 </div>
                             </div>
                             </div>
