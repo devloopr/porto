@@ -58,37 +58,37 @@ function about() {
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="Image of me cooking at todalshytta" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/matlaging.jpg"/>
+                                    src="./public/static/matlaging.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="me and my girls" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/megogjentene-min.jpg"/>
+                                    src="./public/static/megogjentene-min.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="me and my gf fly-fishing" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/fiske-min.jpg"/>
+                                    src="./public/static//fiske-min.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="a trip to the woods with my daughter" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/megogebba.jpg"/>
+                                    src="./public/static/megogebba.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="bouldering" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/buldrer2-min.jpg"/>
+                                    src="./public/static/buldrer2-min.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="bouldering" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/klatrer.jpg"/>
+                                    src="./public/static/klatrer.jpg"/>
                                 </div>
                             </div>
                             </div>
