@@ -70,13 +70,13 @@ function about() {
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="me and my gf fly-fishing" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/Fiske.jpg"/>
+                                    src="/images/fiske.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="a trip to the woods with my daughter" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/images/megogebba.JPG"/>
+                                    src="/images/megogebba.jpg"/>
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
@@ -87,7 +87,7 @@ function about() {
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
-                                <img alt="iver playing hockey" class="block object-cover object-center w-full h-full rounded-lg"
+                                <img alt="bouldering" class="block object-cover object-center w-full h-full rounded-lg"
                                     src="/images/klatrer.jpg"/>
                                 </div>
                             </div>
