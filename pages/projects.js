@@ -42,7 +42,7 @@ function projects() {
                         <img alt="Thumbnail weekendwarriors" class="absolute inset-0 w-full h-full object-cover object-center"
                             src="./static/sciencemuseum.png"/>
                         <div class="px-8 py-10 relative z-10 w-full border-4 border-primary bg-white dark:bg-secondary opacity-0 hover:opacity-100">
-                            <h2 class="tracking-widest text-sm title-font font-medium text-primary mb-1">Oslo Sciencs Musuem</h2>
+                            <h2 class="tracking-widest text-sm title-font font-medium text-primary mb-1">Oslo Science Musuem</h2>
                             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Mitt første skoleprosjekt</h1>
                             <p class="leading-relaxed">HTML og CSS oppgave. Skulle lage en musuemsside hvor målgruppen var unge mennesker. 8-16 år. </p>
                             <a class="mt-3 text-primary inline-flex items-center" href="https://boring-beaver-86cd75.netlify.app/index.html"s>Klikk for å se</a>
@@ -68,7 +68,7 @@ function projects() {
                         <div class="px-8 py-10 relative z-10 w-full border-4 border-primary bg-white dark:bg-secondary opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-primary mb-1">Todalshytta</h2>
                             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Enkel wordpress side </h1>
-                            <p class="leading-relaxed">Webside for Todalshytta, som jeg drev i 2 år. Min far har tatt over driften her nå. Men jeg var dalig leder og kokk her de to siste sommerne</p>
+                            <p class="leading-relaxed">Webside for Todalshytta, som jeg drev i 2 år. Min far har tatt over driften her nå. Men jeg var daglig leder og kokk her de to siste sommerne</p>
                             <a class="mt-3 text-primary inline-flex items-center" href="https://todalshytta.no/">Klikk for å se</a>
                         </div>
                         </div>
